@@ -98,3 +98,7 @@ I have two components in an Angular app. I want to send data among them. How i c
 ## 6. Question
 
 I have an Api which gives me a token when i login to the App. For each Api's calls its necessary to add the token on each call. I don't want repeat code, so, how can i include the token in all Api calls?
+
+## 7. Question
+
+Could you explain me, what is Angular Ivy
