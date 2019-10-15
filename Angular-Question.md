@@ -101,4 +101,4 @@ I have an Api which gives me a token when i login to the App. For each Api's cal
 
 ## 7. Question
 
-Could you explain me, what is Angular Ivy
+Could you explain me, what is Angular Ivy?
